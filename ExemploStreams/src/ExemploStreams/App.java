@@ -8,7 +8,7 @@ public class App {
     public static void main (String[] args) {
         List<Integer> lista = Arrays.asList(1,5,8,9,1,4,7,6,6,9,9);
         //Java 8: Streams
-        //Operação intermediárias -> pode ser repetida durante o stream antes da operação final.
+        //Operações intermediárias -> pode ser repetida durante o stream antes da operação final.
         //
 
 
